@@ -23,3 +23,6 @@ flask db upgrade
 STORE and TAG relationship is ONETOMANY
 
 ITEM and TAG relationship is MANYTOMANY
+
+# flask-REST-SQLAclchemy
+if you dont have any database it will use SQLite by default
